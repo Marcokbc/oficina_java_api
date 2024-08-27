@@ -1,4 +1,4 @@
-# Demonstração Oficina Java
+# Oficina API com Java
 
 Bem-vindo à Demonstração da Oficina de Java! Este guia contém uma série de recursos para ajudar você a aprofundar seus conhecimentos em Java e tecnologias relacionadas. Explore os conteúdos abaixo para complementar o que foi abordado na oficina.
 
